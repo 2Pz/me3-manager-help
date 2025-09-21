@@ -21,7 +21,7 @@ Add or remove games and adjust per‑game settings.
 
 ## Game options (details)
 
-![Manage Games](https://i.ibb.co/WpBkD9zw/image.png)
+![Manage Games](https://i.ibb.co/Zpbm2h7P/image.png)
 
 ### ME3 Configuration File
 
