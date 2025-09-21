@@ -7,15 +7,30 @@ theme:
   name: material
   logo: assets/images/logo.png
   favicon: assets/images/favicon.ico
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: grey
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: grey
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
   features:
+    - navigation.instant
     - navigation.sections
     - navigation.expand
     - navigation.tabs
     - navigation.top
+    - navigation.footer
+    - header.autohide
     - toc.integrate
     - content.code.copy
     - search.suggest
@@ -30,6 +45,9 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://me3.help/
   generator: false
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 markdown_extensions:
   - admonition

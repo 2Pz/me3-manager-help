@@ -14,15 +14,15 @@ If Mod Engine 3 (ME3) isn’t installed, ME3 Manager will prompt you to install 
 
 You’ll see Manager and ME3 versions in the status bar when done.
 
-### Windows
+=== "Windows"
 
-![Main UI](https://i.ibb.co/fVqCz8wH/First-Launch-Windows.png)
+    ![Main UI](https://i.ibb.co/fVqCz8wH/First-Launch-Windows.png)
 
-- Recommended: Official installer (choose the Stable version)
-- Alternative: Custom Portable installer (adds ME3 to user PATH without depending on the official installer)
+    - Recommended: Official installer (choose the Stable version)
+    - Alternative: Custom Portable installer (adds ME3 to user PATH without depending on the official installer)
 
-### Linux
+=== "Linux"
 
-![Main UI](https://i.ibb.co/20vSsBL4/First-Launch-Linux.png)
+    ![Main UI](https://i.ibb.co/20vSsBL4/First-Launch-Linux.png)
 
-Stable installation script
+    - Use the Stable installation script

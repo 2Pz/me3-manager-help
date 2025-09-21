@@ -1,0 +1,82 @@
+:root{
+  --me3-accent: #00bcd4;
+  --me3-accent-strong: #00acc1;
+  --me3-surface: #0f172a;
+  --me3-surface-2: #111827;
+  --me3-border: #1f2937;
+}
+
+/* Force primary (top bar) to grey for both schemes */
+:root,
+[data-md-color-scheme="default"]{
+  --md-primary-fg-color: #3f3f46; /* zinc-700 */
+  --md-primary-fg-color--light: #52525b;
+  --md-primary-fg-color--dark: #27272a;
+}
+
+[data-md-color-scheme="slate"]{
+  --md-primary-fg-color: #27272a; /* zinc-800 */
+  --md-primary-fg-color--light: #3f3f46;
+  --md-primary-fg-color--dark: #18181b;
+}
+
+/* Elevate cards/boxes and improve spacing */
+.md-typeset .admonition, .md-typeset details{
+  border-radius: 10px;
+  border: 1px solid var(--me3-border);
+}
+
+/* Improve code blocks readability */
+.md-typeset pre > code{
+  font-size: 0.9rem;
+}
+
+/* Headings weight & tracking */
+.md-typeset h1, .md-typeset h2, .md-typeset h3{
+  letter-spacing: 0.2px;
+}
+
+/* Tab styling for OS separation */
+.md-typeset .tabbed-labels > label{
+  border-radius: 8px 8px 0 0;
+}
+
+/* Hero image tweaks on home */
+.home-hero img{ max-height: 140px; }
+
+/* Link hover color aligned to accent */
+.md-typeset a:hover{ color: var(--me3-accent-strong); }
+
+/* Compact blog list spacing */
+.md-typeset .md-posts__list li{ margin-bottom: .4rem; }
+
+/* Subtle top border under header for separation */
+.md-header{
+  box-shadow: 0 1px 0 0 var(--me3-border);
+}
+
+/* Make footer match header (same primary grey) */
+.md-footer,
+.md-footer__inner,
+.md-footer-nav,
+.md-footer-nav__link{
+  background-color: var(--md-primary-fg-color);
+}
+.md-footer,
+.md-footer a{
+  color: #e5e7eb;
+}
+
+/* Label-style headings for better section separation */
+.md-typeset h1{
+  border-bottom: 1px solid var(--me3-border);
+  padding-bottom: .25rem;
+  margin-bottom: 1rem;
+}
+.md-typeset h2,
+.md-typeset h3{
+  border-left: 4px solid var(--me3-accent);
+  background: rgba(0, 188, 212, 0.06);
+  padding: .15rem .5rem .15rem .75rem;
+  border-radius: 0 6px 6px 0;
+}

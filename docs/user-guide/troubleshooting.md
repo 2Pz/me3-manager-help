@@ -17,8 +17,16 @@ Use this guide to resolve common issues with ME3 Manager and Mod Engine 3.
 ## “ME3 not installed” or “ME3 not detected”
 
 - Re-run the ME3 installation from [Getting Started](getting-started.md).
-- On Windows, prefer the official Stable installer. or let the manager handle the installation process by selecting the Custom Portable installer
-- On Linux, follow the Stable installation script. Ensure the Manager can access the ME3 folder.
+
+=== "Windows"
+
+    - Prefer the official Stable installer
+    - Alternatively, let the Manager handle install using the Custom Portable option
+
+=== "Linux"
+
+    - Use the Stable installation script
+    - Ensure the Manager has permission to access the ME3 folder
 
 ## Permission or antivirus issues
 

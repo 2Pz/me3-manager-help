@@ -42,7 +42,7 @@ Special thanks to [Gary Tierney ](https://github.com/garyttierney)for creating M
 
 ## Download
 
-- Get the latest version from [Nexus Mods](https://www.nexusmods.com/eldenringnightreign/mods/213)
+- Get the latest version from [Nexus Mods](https://www.nexusmods.com/eldenringnightreign/mods/213) or [GitHub releases](https://github.com/2Pz/me3-manager/releases)
 
 ## Learn More
 
