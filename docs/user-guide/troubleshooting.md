@@ -18,19 +18,19 @@ Use this guide to resolve common issues with ME3 Manager and Mod Engine 3.
 
 - Re-run the ME3 installation from [Getting Started](getting-started.md).
 
-=== "Windows"
+=== ":material-microsoft-windows: Windows"
 
     - Prefer the official Stable installer
     - Alternatively, let the Manager handle install using the Custom Portable option
 
-=== "Linux"
+=== ":material-linux: Linux / Steam Deck"
 
     - Use the Stable installation script
     - Ensure the Manager has permission to access the ME3 folder
 
 ## Permission or antivirus issues
 
-- Windows: allow the Manager and ME3 through Windows Defender/AV if they were quarantined.
+- :material-microsoft-windows: Windows: allow the Manager and ME3 through Windows Defender/AV if they were quarantined.
 - Avoid running as Administrator unless specifically required for a test.
 - Keep the app installed in a user-writable location
 

@@ -14,7 +14,7 @@ Profiles let you save different mod combinations and switch between them.
 
 1. Open Manage Profiles
 2. Click Add Profile
-3. Name it → Savev
+3. Name it → Save
 
 ![Export Setup](https://i.ibb.co/yzXCKb5/Screencast-20250822-224925-ezgif-com-video-to-gif-converter.gif)
 

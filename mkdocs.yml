@@ -56,6 +56,9 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
   - pymdownx.critic
@@ -81,6 +84,7 @@ plugins:
       blog_toc: true
       categories: true
       post_excerpt: required
+      authors_profiles: true
   - tags
 
 nav:

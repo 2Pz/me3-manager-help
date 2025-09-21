@@ -28,6 +28,8 @@ Add or remove games and adjust per‑game settings.
 - Open Folder: view the `me3.toml` file
 - Change Location: choose a different folder for ME3 settings
 
+![Manage Games](https://i.ibb.co/Zpbm2h7P/image.png)
+
 ### Game Options
 
 - Skip Logos: faster startup by skipping intro logos

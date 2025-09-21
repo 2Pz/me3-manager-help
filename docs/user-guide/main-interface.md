@@ -20,6 +20,8 @@ This page explains what you see on the screen and what each part does.
 
 ## Top toolbar
 
+![Main UI](https://i.ibb.co/WWPzh9LR/Screencast-20250822-223635-ezgif-com-video-to-gif-converter.gif)
+
 - **Game options**: Configure ME3 game options
 - **Manage Profiles**: create/switch setups
 - **Profile settings**: Configure profile-level settings such as cusotm save files, online mode and compatiblitiy options
