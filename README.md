@@ -1,6 +1,6 @@
 # ME3 Manager Help
 
-MkDocs Material site for ME3 Manager documentation and blog.
+ME3 Manager documentation and blog.
 
 ## Quick Start (uv)
 ```sh
