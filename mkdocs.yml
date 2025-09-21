@@ -84,7 +84,6 @@ plugins:
       blog_toc: true
       categories: true
       post_excerpt: required
-      authors_profiles: true
   - tags
 
 nav:
