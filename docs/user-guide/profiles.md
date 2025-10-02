@@ -2,7 +2,7 @@
 
 Profiles let you save different mod combinations and switch between them.
 
-![Export Setup](https://i.ibb.co/Nd1RpWTM/image.png)
+![1759438103463](image/profiles/1759438103463.png)
 
 ## Examples
 
@@ -16,7 +16,7 @@ Profiles let you save different mod combinations and switch between them.
 2. Click Add Profile
 3. Name it → Save
 
-![Export Setup](https://i.ibb.co/yzXCKb5/Screencast-20250822-224925-ezgif-com-video-to-gif-converter.gif)
+![1759438111213](image/profiles/1759438111213.gif)
 
 ## Switch profiles
 
@@ -25,4 +25,4 @@ Profiles let you save different mod combinations and switch between them.
 
 ## Profile options
 
-![Export Setup](https://i.ibb.co/0jgzwYT3/image.png)
+![1759438120637](image/profiles/1759438120637.png)

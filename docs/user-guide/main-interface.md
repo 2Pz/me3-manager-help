@@ -2,7 +2,7 @@
 
 This page explains what you see on the screen and what each part does.
 
-![Main UI](https://i.ibb.co/PvqMN4dm/Main-interface.png)
+![1759437818601](image/main-interface/1759437818601.png)
 
 ## Left sidebar (games)
 
@@ -10,7 +10,7 @@ This page explains what you see on the screen and what each part does.
 - The active game is highlighted
 - You can customize the order of the games.
 
-![Main UI](https://i.ibb.co/WWPzh9LR/Screencast-20250822-223635-ezgif-com-video-to-gif-converter.gif)
+![1759437826304](image/main-interface/1759437826304.gif)
 
 ## Main area (mods)
 
@@ -20,7 +20,7 @@ This page explains what you see on the screen and what each part does.
 
 ## Top toolbar
 
-![Main UI](https://i.ibb.co/WWPzh9LR/Screencast-20250822-223635-ezgif-com-video-to-gif-converter.gif)
+![1759437854123](image/main-interface/1759437854123.png)
 
 - **Game options**: Configure ME3 game options
 - **Manage Profiles**: create/switch setups

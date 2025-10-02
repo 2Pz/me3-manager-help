@@ -8,7 +8,7 @@ Understand mod states, actions, and best practices.
 - Enabled/disabled state
 - Actions (toggle, settings, advanced, delete)
 
-![Mod Item](https://i.ibb.co/84Bx60cm/image.png)
+![1759437957621](image/managing-mods/1759437957621.png)
 
 ## Enable or disable
 
@@ -19,9 +19,9 @@ Understand mod states, actions, and best practices.
 - Set load order and dependencies
 - Configure DLL mod settings when available
 
-![Mod Item](https://i.ibb.co/NnS7DTcX/image.png)
+![1759437965027](image/managing-mods/1759437965027.png)
 
-![Mod Item](https://i.ibb.co/2myXr7v/image.png)
+![1759437972110](image/managing-mods/1759437972110.png)
 
 ## Removing a mod
 
@@ -31,19 +31,18 @@ Understand mod states, actions, and best practices.
 
 You can add a `.dll` from any location without moving it into the mods folder — useful for cases like Seamless Co-op that you prefer to keep alongside the game files.
 
-![External Mod](https://i.ibb.co/gLWHNyn9/test.gif)
+![1759437985168](image/managing-mods/1759437985168.gif)
 
 ## Edit/view .me3 file (advanced)
 
 You can open and view the active `.me3` profile file. Editing is not recommended unless you know what you’re doing.
 
-![Edit .me3](https://i.ibb.co/TDcwMT5h/image.png)
+![1759437994847](image/managing-mods/1759437994847.png)
 
 ## Export mods setup
 
 Create a zip containing the `mods` folder and profile so you can share the complete setup.
 
-![Export Setup](https://i.ibb.co/CS0QV2q/image.png)
-
+![1759438001904](image/managing-mods/1759438001904.png)
 
 Keep in mind that external mods won’t be part of the export. To ensure your mods setup is fully included, make sure all mods are placed within the mods folder before exporting.

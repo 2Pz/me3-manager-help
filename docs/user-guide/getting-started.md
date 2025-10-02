@@ -16,13 +16,13 @@ You’ll see Manager and ME3 versions in the status bar when done.
 
 === ":material-microsoft-windows: Windows"
 
-    ![Main UI](https://i.ibb.co/fVqCz8wH/First-Launch-Windows.png)
+    ![1759437522541](image/getting-started/1759437522541.png)
 
     - Recommended: Official installer (choose the Stable version)
     - Alternative: Custom Portable installer (adds ME3 to user PATH without depending on the official installer)
 
 === ":material-linux: Linux / Steam Deck"
 
-    ![Main UI](https://i.ibb.co/20vSsBL4/First-Launch-Linux.png)
+    ![1759437533376](image/getting-started/1759437533376.png)
 
     - Use the Stable installation script
