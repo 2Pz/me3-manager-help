@@ -20,7 +20,7 @@ For example, installing the Storm Control mod:
 
 - Drag the `.dll` file into the drop zone
 
-![Drag and Drop](https://i.ibb.co/gLC88cpZ/Screencast-20250822-231421-ezgif-com-video-to-gif-converter.gif)
+![1759437675733](image/installing-mods/1759437675733.gif)
 
 ### 2) Package mod example
 
@@ -29,7 +29,7 @@ Some mods include a `.me3` profile and a `mods` folder (e.g., a large overhaul).
 - Drag only `.me3` or both the `.me3` file and the folder together
 - If there is no `.me3` file, drag the folder
 
-![Drag and Drop](https://i.ibb.co/xK1LxpQ8/Video-2025-09-21-21-16-26-ezgif-com-video-to-gif-converter.gif)
+![1759437686655](image/installing-mods/1759437686655.gif)
 
 ### 3) Regulation.bin
 
@@ -38,4 +38,4 @@ Some mods contain only a `regulation.bin` file.
 - Drag it into the drop zone
 - Note: only one regulation file can be active at a time
 
-![Drag and Drop](https://i.ibb.co/xK1LxpQ8/Video-2025-09-21-21-16-26-ezgif-com-video-to-gif-converter.gif)
+![1759437695581](image/installing-mods/1759437695581.gif)

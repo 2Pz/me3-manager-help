@@ -2,7 +2,7 @@
 
 Add or remove games and adjust per‑game settings.
 
-![Manage Games](https://i.ibb.co/N2SmJ2tq/image.png)
+![1759437342042](image/game-management/1759437342042.png)
 
 ## Add a custom game
 
@@ -12,7 +12,7 @@ Add or remove games and adjust per‑game settings.
 
 **This feature is intended for future updates where support for new games may be added**
 
-![Manage Games](https://i.ibb.co/WpBkD9zw/image.png)
+![1759437389814](image/game-management/1759437389814.png)
 
 ## Remove a game
 
@@ -21,14 +21,14 @@ Add or remove games and adjust per‑game settings.
 
 ## Game options (details)
 
-![Manage Games](https://i.ibb.co/Zpbm2h7P/image.png)
+![1759437415432](image/game-management/1759437415432.png)
 
 ### ME3 Configuration File
 
 - Open Folder: view the `me3.toml` file
 - Change Location: choose a different folder for ME3 settings
 
-![Manage Games](https://i.ibb.co/Zpbm2h7P/image.png)
+![1759437430116](image/game-management/1759437430116.png)
 
 ### Game Options
 
