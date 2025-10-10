@@ -21,6 +21,7 @@ Use this guide to resolve common issues with ME3 Manager and Mod Engine 3.
 === ":material-microsoft-windows: Windows"
 
     - Prefer the official Stable installer
+    - Reboot your PC after installing ME3.
     - Alternatively, let the Manager handle install using the Custom Portable option
 
 === ":material-linux: Linux / Steam Deck"
